@@ -1,0 +1,27 @@
+h1{
+  color: red;
+}
+* {
+  font-family: sans-serif;
+}
+
+p {
+color: red;
+font-weight: bold;
+}
+body {
+background: black
+url(https://fanart.tv/fanart/tv/354179/hdtvlogo/kengan-ashura-5d8b12582d826.png) no-repeat;
+background-attachment:fixed;
+background-position: center;
+}
+li {
+  color: red;
+
+}
+h2 {
+  color: blue;
+}
+p {
+  margin: 20px;
+}
